@@ -25,6 +25,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/437798983050723330)
 
-</div>
 
 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVGsHaMGhSlxbTAFN3y4HO8LS9M4hFC2sq_4LG-SOXH5WymMI6">
+</div>
