@@ -14,8 +14,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-stats-extended-frontend-faz9.vercel.app/api?username=Fazzer325&show_icons=true&theme=tokyonight&v=2" height="165">
-  <img src="https://github-stats-extended-frontend-faz9.vercel.app/api/top-langs/?username=Fazzer325&layout=compact&theme=tokyonight&v=2" height="165">
+  <img src="https://github-stats-extended-frontend-one-rho.vercel.app/api?username=Fazzer325&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-stats-extended-frontend-one-rho.vercel.app/api/top-langs?username=Fazzer325&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ## 🐱 Visitors
