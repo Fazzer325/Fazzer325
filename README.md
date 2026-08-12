@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hola, Soy un Estudiante de Programacion 👋
+### Hi! I'm Fazzer, a programming student 👋
 
 ## Stack
 
@@ -15,13 +15,13 @@
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fazzer325&layout=compact&theme=tokyonight" height="165">
 
-## 🐱 Visitas
+## 🐱 Visitors
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Fazzer325?theme=gelbooru" alt="Visitas">
+  <img src="https://count.getloli.com/get/@Fazzer325?theme=gelbooru" alt="Visitors">
 </p>
 
-## Encuéntrame en ...
+## 🌐 Find me in...
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/437798983050723330)
 
